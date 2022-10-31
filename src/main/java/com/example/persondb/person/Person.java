@@ -1,4 +1,4 @@
-package com.example.persondb;
+package com.example.persondb.person;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

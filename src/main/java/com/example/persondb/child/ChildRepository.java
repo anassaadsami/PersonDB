@@ -1,8 +1,7 @@
-package child.persondb;
+package com.example.persondb.child;
 
+import com.example.persondb.child.Child;
 import org.springframework.data.repository.CrudRepository;
-
-import java.util.List;
 
 public interface ChildRepository extends CrudRepository<Child,String> {
     /*

@@ -1,5 +1,7 @@
-package book.persondb;
+package com.example.persondb.book;
 
+import com.example.persondb.book.Book;
+import com.example.persondb.book.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

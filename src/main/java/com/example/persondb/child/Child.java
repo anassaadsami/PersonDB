@@ -1,13 +1,8 @@
-package child.persondb;
-
-import com.example.persondb.Person;
+package com.example.persondb.child;
 
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.OneToOne;
-
-
 
 
 @Entity

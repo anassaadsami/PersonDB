@@ -1,4 +1,6 @@
-package child.persondb;
+package com.example.persondb.child;
+import com.example.persondb.child.Child;
+import com.example.persondb.child.ChildRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

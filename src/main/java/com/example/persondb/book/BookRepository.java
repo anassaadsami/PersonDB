@@ -1,5 +1,6 @@
-package book.persondb;
+package com.example.persondb.book;
 
+import com.example.persondb.book.Book;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

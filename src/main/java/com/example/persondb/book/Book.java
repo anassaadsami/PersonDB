@@ -1,11 +1,13 @@
-package book.persondb;
+package com.example.persondb.book;
 
-import com.example.persondb.Person;
+import com.example.persondb.person.Person;
 
 import javax.persistence.*;
 
 @Entity
 public class Book {
+    // it is just training
+
     @Id
     private String bookName;
 
