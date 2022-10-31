@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 21 20:24:42 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-614b-8208-000001647408 
+on database directory memory:/Users/Hiba/Documents/PersonDB/6b8babec-ab63-44dd-b10c-759e85de5328 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/Hiba/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=/Users/Hiba/Documents/PersonDB
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.6.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
